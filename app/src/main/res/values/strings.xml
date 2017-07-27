@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpliWeather</string>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pincode">Pincode</string>
+    <string name="pincodekey">PincodeKey</string>
+
+
+    <string name="locationkey">LocationKey</string>
+    <string name="locationfromzipcode">Get Location From ZipCode</string>
+    <string name="getlocation">Location</string>
+    <string name="title_activity_zip_code">ZipCodeActivity</string>
+
+
+</resources>
